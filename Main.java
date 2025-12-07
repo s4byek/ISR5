@@ -17,5 +17,8 @@ class Main{
     public static void print4() {
         System.out.print("Это значительное изменение для четвертого коммита");
     }
+    public static void print5() {
+        System.out.print("изменения в ветке main");
+
 
 }
