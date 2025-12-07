@@ -1,5 +1,8 @@
 class Main{
     public static void main(String[] args) {
-        System.out.print("Это добавлено в ветке main");
+        print();
+    }
+    public static void print() {
+        System.out.print("Это значительное изменение для первого коммита");
     }
 }
